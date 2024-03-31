@@ -1,5 +1,5 @@
 # sistem-kasir-restoran-cepat-saji
-Sistem Kasir Restoran Cepat Saji Berbasis Web dengan VB.NET dan MySQL.
+Sistem Kasir Restoran Cepat Saji Berbasis Web dengan VB.NET dan MySQL, ditujukan untuk memenuhi Ujian Akhir Semester (UAS) pada mata kuliah Pemrograman Visual.
 
 **Dibangun dengan:**
 - VB.NET menggunakan IDE Visual Studio 2010
