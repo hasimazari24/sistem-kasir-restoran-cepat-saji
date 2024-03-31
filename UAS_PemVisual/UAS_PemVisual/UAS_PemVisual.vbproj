@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D1D66FCE-2E0B-43E7-BD3B-97EF2B7F28A4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>UAS_PemVisual.My.MyApplication</StartupObject>
+    <RootNamespace>UAS_PemVisual</RootNamespace>
+    <AssemblyName>UAS_PemVisual</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>UAS_PemVisual.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>UAS_PemVisual.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>UAS_PemVisual.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\UAS_PemVisual.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>UAS_PemVisual.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\UAS_PemVisual.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.vb">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form_bantuan.Designer.vb">
+      <DependentUpon>Form_bantuan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_bantuan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_daftarpembayaran.Designer.vb">
+      <DependentUpon>Form_daftarpembayaran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_daftarpembayaran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_daftarpesanan.Designer.vb">
+      <DependentUpon>Form_daftarpesanan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_daftarpesanan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_laporan.Designer.vb">
+      <DependentUpon>Form_laporan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_laporan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_menu.Designer.vb">
+      <DependentUpon>Form_menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_login.Designer.vb">
+      <DependentUpon>Form_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_pembayaran.Designer.vb">
+      <DependentUpon>Form_pembayaran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_pembayaran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_tentang.Designer.vb">
+      <DependentUpon>Form_tentang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_tentang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_utama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_utama.Designer.vb">
+      <DependentUpon>Form_utama.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_pemesanan.Designer.vb">
+      <DependentUpon>Form_pemesanan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_pemesanan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Kategori.Designer.vb">
+      <DependentUpon>Form_Kategori.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Kategori.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_pengguna.Designer.vb">
+      <DependentUpon>Form_pengguna.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_pengguna.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="bin\x64\Debug\Report1.rdlc" />
+    <EmbeddedResource Include="bin\x64\Debug\Report2.rdlc" />
+    <EmbeddedResource Include="bin\x64\Debug\Report3.rdlc" />
+    <EmbeddedResource Include="bin\x64\Debug\Report4.rdlc" />
+    <EmbeddedResource Include="bin\x64\Debug\Report5_cetakpesan.rdlc" />
+    <EmbeddedResource Include="bin\x64\Debug\Report6_cetakbayar.rdlc" />
+    <EmbeddedResource Include="bin\x64\Debug\Report7_cetakdapur.rdlc" />
+    <EmbeddedResource Include="Form_bantuan.resx">
+      <DependentUpon>Form_bantuan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_daftarpembayaran.resx">
+      <DependentUpon>Form_daftarpembayaran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_daftarpesanan.resx">
+      <DependentUpon>Form_daftarpesanan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_laporan.resx">
+      <DependentUpon>Form_laporan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_menu.resx">
+      <DependentUpon>Form_menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_login.resx">
+      <DependentUpon>Form_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_pembayaran.resx">
+      <DependentUpon>Form_pembayaran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_tentang.resx">
+      <DependentUpon>Form_tentang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_utama.resx">
+      <DependentUpon>Form_utama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_pemesanan.resx">
+      <DependentUpon>Form_pemesanan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Kategori.resx">
+      <DependentUpon>Form_Kategori.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_pengguna.resx">
+      <DependentUpon>Form_pengguna.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1200px-Desktop_font_awesome.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\halamannewfix.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-accounting-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-purchase-order-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-invoice-96 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-help-90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-about-90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1200px-Font_Awesome_5_solid_user-circle.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\png-transparent-computer-icons-button-off-cdr-logo-window-thumbnail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1024px-Font_Awesome_5_solid_sign-out-alt.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1200px-Font_Awesome_5_solid_user-circle.svg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blurr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blurr1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\x64\Debug\UAS_PemVisual.exe" />
+    <Content Include="bin\x64\Debug\UAS_PemVisual.pdb" />
+    <None Include="Resources\icons8-receipt-approved-96.png" />
+    <None Include="Resources\NicePng_order-png_23033661.png" />
+    <None Include="Resources\NicePng_order-png_2303366.png" />
+    <None Include="Resources\7.DUTABANGSA.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

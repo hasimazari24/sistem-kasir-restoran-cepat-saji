@@ -1,0 +1,119 @@
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_laporan.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_menu.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_login.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pembayaran.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_utama.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pemesanan.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_Kategori.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pengguna.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Resources.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.vbproj.GenerateResource.Cache
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\RdlCompile.cache
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\RdlCompile.compiled
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.exe.config
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.exe
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.pdb
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.xml
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.exe
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.xml
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.pdb
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_daftarpesanan.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_daftarpembayaran.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_tentang.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_bantuan.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.vbprojResolveAssemblyReference.cache
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.exe.config
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.exe
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.xml
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.pdb
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.exe
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.pdb
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.xml
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.vbprojResolveAssemblyReference.cache
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_bantuan.resources
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_daftarpembayaran.resources
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_daftarpesanan.resources
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_laporan.resources
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_menu.resources
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_login.resources
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pembayaran.resources
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_tentang.resources
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_utama.resources
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pemesanan.resources
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_Kategori.resources
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pengguna.resources
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Resources.resources
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.vbproj.GenerateResource.Cache
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\RdlCompile.cache
+D:\UDB\KULIAH\SEMESTER 4\Pemrograman Visual\UAS\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\RdlCompile.compiled
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.exe.config
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.exe
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.xml
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.pdb
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.exe
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.pdb
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.xml
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.vbprojResolveAssemblyReference.cache
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_bantuan.resources
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_daftarpembayaran.resources
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_daftarpesanan.resources
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_laporan.resources
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_menu.resources
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_login.resources
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pembayaran.resources
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_tentang.resources
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_utama.resources
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pemesanan.resources
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_Kategori.resources
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pengguna.resources
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Resources.resources
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.vbproj.GenerateResource.Cache
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\RdlCompile.cache
+G:\UAS-Design-FIX\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\RdlCompile.compiled
+E:\project\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.exe.config
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.exe
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.xml
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.pdb
+E:\project\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.exe
+E:\project\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.pdb
+E:\project\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.xml
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.vbprojResolveAssemblyReference.cache
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_bantuan.resources
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_daftarpembayaran.resources
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_daftarpesanan.resources
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_laporan.resources
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_menu.resources
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_login.resources
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pembayaran.resources
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_tentang.resources
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_utama.resources
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pemesanan.resources
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_Kategori.resources
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pengguna.resources
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Resources.resources
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.vbproj.GenerateResource.Cache
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\RdlCompile.cache
+E:\project\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\RdlCompile.compiled
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.exe.config
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.xml
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.pdb
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.exe
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_bantuan.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_daftarpembayaran.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_daftarpesanan.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_laporan.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_menu.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_login.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pembayaran.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_tentang.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_utama.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pemesanan.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_Kategori.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Form_pengguna.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.Resources.resources
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.vbproj.GenerateResource.Cache
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\RdlCompile.cache
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\RdlCompile.compiled
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\obj\x64\Debug\UAS_PemVisual.exe
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.pdb
+E:\campus\A New Spirit Of University\SEMESTER 4\3_Pemograman Visual\Project VB\UAS-FIXXXXXED\UAS_PemVisual\UAS_PemVisual\bin\x64\Debug\UAS_PemVisual.xml
